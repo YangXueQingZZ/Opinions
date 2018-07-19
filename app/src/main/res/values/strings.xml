@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">口碑应用</string>
+    <string name="back">后退</string>
+    <string name="forward">前进</string>
+    <string name="me">我要</string>
+    <string name="news">新闻</string>
+    <string name="video">视频</string>
+    <string name="book">读书</string>
+    <string name="money">赚钱</string>
+
+
+</resources>
